@@ -1,0 +1,44 @@
+User:	FUMPROCK
+Company:	
+Venue:	Diepenbeek 16 02 2019
+Soundcard Serial#:	
+Microphone Serial#:	1491
+Calibration Value: 	0,0212
+Calibration date: 	Factory Calibration
+Software Version:	10EaZy Version 2.6_build 080816 , Web server IP is 127.0.0.1
+File Created:	4/05/2019 13:47:49
+
+dBA limit in this session	86
+Leq period [Min]	15
+
+
+
+Time	Running Order	Leq 1 min dB(A)	Leq 60 Min dB(A)	Leq 15 Min dB(A)	Leq 1 min dB(C)	Leq 60 Min dB(C)	Leq 15 Min dB(C)	Max FAST dB(A)	Max Peak dB(C)	Leq 60 min dB(A)	Leq C - A	Max SLOW dB(A)	Leq 1 min - Audience dB(A)	
+4/05/2019 13:47		0,0	0,0	0,0	0,0	0,0	0,0	0,0	0,0	0,0	0,0	0,0	0,0
+
+
+	Number of Limit violations = 	0
+	Total time above Limit = 	00h:00m:00s
+	Maximum Leq 15 Min [dBA] = 	0,0
+	Maximum Leq60min [dBA] = 	0,0
+	Maximum secondary Leq 60 Min [dBA] = 	0,0
+	Maximum Slow value [dBA] = 	0,0
+	Maximum Fast value [dBA] = 	0,0
+	Number of input peaks in measurement session	0
+	Leq Limit was 86 [dBA]
+	Secondary LAeq Limit was 100 [dBA]
+
+
+
+	PERCENTILES	A-Weight	C-Weight
+	L99	0,0	0,0
+	L95	0,0	0,0
+	L90	0,0	0,0
+	L50	0,0	0,0
+	L10	0,0	0,0
+	L5	0,0	0,0
+	L1	0,0	0,0
+
+File Checksum	a67bafdb43c83070519394f1d5d628e2
+
+NOTE:  Program was terminated due to a program error!!!
